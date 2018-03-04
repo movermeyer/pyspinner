@@ -1,14 +1,14 @@
 pyspinner
 =========
 
-.. image:: https://pypip.in/version/pyspinner/badge.png
+.. image:: https://img.shields.io/pypi/v/pyspinner.svg
     :target: https://pypi.python.org/pypi/pyspinner
     :alt: Latest Version
 
-.. image:: https://pypip.in/download/pyspinner/badge.png
+.. image:: https://img.shields.io/pypi/dm/pyspinner.svg
     :target: https://pypi.python.org/pypi/pyspinner
 
-.. image:: https://pypip.in/license/pyspinner/badge.png
+.. image:: https://img.shields.io/pypi/l/pyspinner.svg
     :target: https://pypi.python.org/pypi/pyspinner
     :alt: License
 
